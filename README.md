@@ -1,4 +1,3 @@
-## Hi there 👋
 
 # 👋 Hi, I'm Naveen Kumar!
 🚀 Aspiring Software Developer | CS Engineering Student  
@@ -29,13 +28,14 @@
 - 🧠 Solved Problems: `800+`
 - 🔗 [My LeetCode Profile](https://leetcode.com/u/23a35a0517/)
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/your-leetcode-23a35a0517?theme=dark&font=Baloo&extension=activity)
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/23a35a0517?theme=dark&font=Baloo&ext=contest)
 
 ---
 
 ## 📈 GitHub Stats
 
-![Naveen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-GaragaNaveenKumar&show_icons=true&theme=radical)
+![Naveen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GaragaNaveenKumar&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GaragaNaveenKumar&layout=compact&theme=radical)
 
@@ -62,8 +62,20 @@
 
 ---
 
-## 📫 Connect with Me  
-- [LinkedIn](https://www.linkedin.com/in/naveen-kumar-garaga/)  
-- [GitHub](https://github.com/GaragaNaveenKumar)  
-- [LeetCode](https://leetcode.com/u/23a35a0517/)
+
+## 📫 Connect with Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/naveen-kumar-garaga/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/GaragaNaveenKumar" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://leetcode.com/u/23a35a0517/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="40" alt="LeetCode" />
+  </a>
+</p>
 
