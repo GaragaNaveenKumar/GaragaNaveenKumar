@@ -1,16 +1,69 @@
 ## Hi there 👋
 
-<!--
-**GaragaNaveenKumar/GaragaNaveenKumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Naveen Kumar!
+🚀 Aspiring Software Developer | CS Engineering Student  
+💡 Passionate about Web Development, AI, and System Design  
+📚 Currently learning MERN Stack, Docker, and Firebase
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 Tech Stack
+- **Languages**: JavaScript, Python, C++, Java  
+- **Frontend**: React, HTML, CSS, Tailwind  
+- **Backend**: Node.js, Express, MongoDB, Firebase  
+- **Tools & DevOps**: Git, Docker, Render,vercel, Postman ,VS code 
+
+---
+
+## 📌 Featured Projects
+
+| Project | Tech Stack | Repository |
+|--------|------------|------------|
+| AI-Teacher Assistant | Node.js, MongoDB, Express,React | [Repo](https://github.com/GaragaNaveenKumar/AI-Teacher-Assistant-Frontend) |
+| Ecommerce Website | React, Node.js, MongoDB, Express,Tailwindcss | [Repo](https://github.com/GaragaNaveenKumar/EKart) |
+
+---
+
+## 💻 LeetCode Stats
+
+- 🧠 Solved Problems: `800+`
+- 🔗 [My LeetCode Profile](https://leetcode.com/u/23a35a0517/)
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/your-leetcode-23a35a0517?theme=dark&font=Baloo&extension=activity)
+
+---
+
+## 📈 GitHub Stats
+
+![Naveen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-GaragaNaveenKumar&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GaragaNaveenKumar&layout=compact&theme=radical)
+
+---
+## 🛠️ Technologies & Tools
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+
+---
+
+## 🌱 Profile Views  
+![Visitor Count](https://komarev.com/ghpvc/?username=GaragaNaveenKumar&color=blue)
+
+---
+
+## 📫 Connect with Me  
+- [LinkedIn](https://www.linkedin.com/in/naveen-kumar-garaga/)  
+- [GitHub](https://github.com/GaragaNaveenKumar)  
+- [LeetCode](https://leetcode.com/u/23a35a0517/)
+
