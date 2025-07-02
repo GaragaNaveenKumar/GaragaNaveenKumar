@@ -59,11 +59,6 @@
 
 ---
 
-## 🌱 Profile Views  
-![Visitor Count](https://komarev.com/ghpvc/?username=GaragaNaveenKumar&color=blue)
-
----
-
 
 ## 📫 Socials
 
