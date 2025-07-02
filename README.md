@@ -42,17 +42,19 @@
 ---
 ## 🛠️ Technologies & Tools
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+<div style="display: flex; flex-wrap: wrap; gap: 16px; align-items: center;">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/javascript.svg" alt="JavaScript" width="40" height="40" title="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/react.svg" alt="React" width="40" height="40" title="React" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/node-dot-js.svg" alt="Node.js" width="40" height="40" title="Node.js" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/mongodb.svg" alt="MongoDB" width="40" height="40" title="MongoDB" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/express.svg" alt="Express" width="40" height="40" title="Express" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/firebase.svg" alt="Firebase" width="40" height="40" title="Firebase" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/html5.svg" alt="HTML5" width="40" height="40" title="HTML5" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/css3.svg" alt="CSS3" width="40" height="40" title="CSS3" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/tailwindcss.svg" alt="Tailwind CSS" width="40" height="40" title="Tailwind CSS" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/git.svg" alt="Git" width="40" height="40" title="Git" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/docker.svg" alt="Docker" width="40" height="40" title="Docker" />
+</div>
 
 
 ---
