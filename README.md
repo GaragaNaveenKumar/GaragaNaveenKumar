@@ -23,6 +23,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" title="Docker"/>
 </p>
 
+---
+
 ## 📌 Featured Projects
 
 | Project | Tech Stack | Repository |
@@ -44,9 +46,7 @@
 
 ## 📈 GitHub Stats
 
-![Naveen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GaragaNaveenKumar&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GaragaNaveenKumar&layout=compact&theme=radical)
+![Naveen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GaragaNaveenKumar&show_icons=true&theme=radical)     ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GaragaNaveenKumar&layout=compact&theme=radical)
 
 ---
 ## 🏆 GitHub Trophies
