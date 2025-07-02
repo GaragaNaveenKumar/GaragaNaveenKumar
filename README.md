@@ -5,14 +5,23 @@
 📚 Currently learning MERN Stack, Docker, and Firebase
 
 ---
+## 🛠️ Tech Stack
 
-## 🔥 Tech Stack
-- **Languages**: JavaScript, Python, C++, Java  
-- **Frontend**: React, HTML, CSS, Tailwind  
-- **Backend**: Node.js, Express, MongoDB, Firebase  
-- **Tools & DevOps**: Git, Docker, Render,vercel, Postman ,VS code 
-
----
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" title="C++"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" title="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" title="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" title="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" title="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50" title="Express"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" title="MongoDB"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="50" title="Firebase"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" title="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" title="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50" title="Bootstrap"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" title="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" title="Docker"/>
+</p>
 
 ## 📌 Featured Projects
 
@@ -40,21 +49,12 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GaragaNaveenKumar&layout=compact&theme=radical)
 
 ---
-## 🛠️ Technologies & Tools
+## 🏆 GitHub Trophies
 
-<div style="display: flex; flex-wrap: wrap; gap: 16px; align-items: center;">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/javascript.svg" alt="JavaScript" width="40" height="40" title="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/react.svg" alt="React" width="40" height="40" title="React" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/node-dot-js.svg" alt="Node.js" width="40" height="40" title="Node.js" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/mongodb.svg" alt="MongoDB" width="40" height="40" title="MongoDB" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/express.svg" alt="Express" width="40" height="40" title="Express" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/firebase.svg" alt="Firebase" width="40" height="40" title="Firebase" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/html5.svg" alt="HTML5" width="40" height="40" title="HTML5" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/css3.svg" alt="CSS3" width="40" height="40" title="CSS3" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/tailwindcss.svg" alt="Tailwind CSS" width="40" height="40" title="Tailwind CSS" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/git.svg" alt="Git" width="40" height="40" title="Git" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/docker.svg" alt="Docker" width="40" height="40" title="Docker" />
-</div>
+[![trophy](https://github-profile-trophy.vercel.app/?username=GaragaNaveenKumar&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+  
 
 
 ---
@@ -65,7 +65,7 @@
 ---
 
 
-## 📫 Connect with Me
+## 📫 Socials
 
 <p align="left">
   <a href="https://www.linkedin.com/in/naveen-kumar-garaga/" target="_blank">
