@@ -30,13 +30,14 @@
 | Project | Tech Stack | Repository |
 |--------|------------|------------|
 | AI-Teacher Assistant | Node.js, MongoDB, Express,React | [Repo](https://github.com/GaragaNaveenKumar/AI-Teacher-Assistant-Frontend) |
+| Road Reporting System | React, Node.js, MongoDB, Express,Tailwindcss,shadcn | [Repo](https://github.com/GaragaNaveenKumar/Road-Reporting-System) |
 | Ecommerce Website | React, Node.js, MongoDB, Express,Tailwindcss | [Repo](https://github.com/GaragaNaveenKumar/EKart) |
 
 ---
 
 ## 💻 LeetCode Stats
 
-- 🧠 Solved Problems: `800+`
+- 🧠 Solved Problems: `900+`
 - 🔗 [My LeetCode Profile](https://leetcode.com/u/23a35a0517/)
 
 
