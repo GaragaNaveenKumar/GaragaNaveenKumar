@@ -37,7 +37,7 @@
 
 ## 💻 LeetCode Stats
 
-- 🧠 Solved Problems: `900+`
+- 🧠 Solved Problems: `1000+` max(1800+)
 - 🔗 [My LeetCode Profile](https://leetcode.com/u/23a35a0517/)
 
 
