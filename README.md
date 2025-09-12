@@ -37,7 +37,8 @@
 
 ## 💻 LeetCode Stats
 
-- 🧠 Solved Problems: `1000+` max(1800+)
+- 🧠 Solved Problems: `1000+` max(1900+)
+-     Knight at leetcode contests
 - 🔗 [My LeetCode Profile](https://leetcode.com/u/23a35a0517/)
 
 
