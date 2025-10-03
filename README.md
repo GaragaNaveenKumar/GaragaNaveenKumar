@@ -3,7 +3,8 @@
 🚀 Aspiring Software Developer | CS Engineering Student  
 💡 Passionate about Web Development, AI, and System Design  
 📚 Currently learning MERN Stack, Docker, and Firebase
-🚀 contributed in open source projects  in GSSOC(Girls Script Summero Of Code)
+
+🚀 Contributed in open source projects  in GSSOC(Girls Script Summero Of Code)
 
 ---
 ## 🛠️ Tech Stack
