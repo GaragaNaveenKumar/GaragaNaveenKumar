@@ -3,6 +3,7 @@
 🚀 Aspiring Software Developer | CS Engineering Student  
 💡 Passionate about Web Development, AI, and System Design  
 📚 Currently learning MERN Stack, Docker, and Firebase
+🚀 participated in open source contribution in GSSOC(Girls Script Summero Of Code).
 
 ---
 ## 🛠️ Tech Stack
@@ -20,7 +21,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" title="CSS3"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50" title="Bootstrap"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" title="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" title="Docker"/>
+  
 </p>
 
 ---
@@ -37,7 +38,7 @@
 
 ## 💻 LeetCode Stats
 
-- 🧠 Solved Problems: `1000+` max(1900+)
+- 🧠 Solved Problems: `1100+` max(1900+)
 -     Knight at leetcode contests
 - 🔗 [My LeetCode Profile](https://leetcode.com/u/23a35a0517/)
 
