@@ -29,7 +29,7 @@
 Final-year B.Tech Computer Science student with a strong foundation in full-stack development, competitive programming, and system design. I enjoy building scalable web applications and contributing to open source. Currently exploring **Agentic AI**, **LangChain**, and **LangGraph** to build intelligent, production-ready AI systems.
 
 - 🎓 B.Tech Computer Science, 2026 Batch
-- 🏆 **LeetCode Knight** — 1500+ problems solved, max rating 2100+
+- 🏆 **LeetCode Guardian** — 1500+ problems solved, max rating 2100+
 - 🌍 Open Source Contributor — **GirlScript Summer of Code (GSSoC)**
 - 🤖 Currently learning: Agentic AI · LangChain · LangGraph · RAG Pipelines
 - 🔍 Open to: SDE Internships · Full-Stack · Backend roles
@@ -93,7 +93,7 @@ Final-year B.Tech Computer Science student with a strong foundation in full-stac
 
 | Platform | Achievement |
 |----------|-------------|
-| **LeetCode** | 🏆 Knight · 1500+ problems · Max Rating 2100+ |
+| **LeetCode** | 🏆 Guardian · 1500+ problems · Max Rating 2100+ |
 | **CodeChef** | ⭐ Rating 1500+ |
 
 </div>
