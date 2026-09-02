@@ -29,7 +29,7 @@
 Final-year B.Tech Computer Science student with a strong foundation in full-stack development, competitive programming, and system design. I enjoy building scalable web applications and contributing to open source. Currently exploring **Agentic AI**, **LangChain**, and **LangGraph** to build intelligent, production-ready AI systems.
 
 - 🎓 B.Tech Computer Science, 2026 Batch
-- 🏆 **LeetCode Guardian** — 1500+ problems solved, max rating 2100+
+- 🏆 **LeetCode Guardian** — 1600+ problems solved, max rating 2100+
 - 🌍 Open Source Contributor — **GirlScript Summer of Code (GSSoC)**
 - 🤖 Currently learning: Agentic AI · LangChain · LangGraph · RAG Pipelines
 - 🔍 Open to: SDE Internships · Full-Stack · Backend roles
@@ -79,6 +79,7 @@ Final-year B.Tech Computer Science student with a strong foundation in full-stac
 |---------|-------------|------------|
 | [**MealCart**](https://github.com/GaragaNaveenKumar/MealCart) | Full-stack food delivery platform with Stripe payments and an admin dashboard | React · Node.js · MongoDB · CSS |
 | [**Road Reporting System**](https://github.com/GaragaNaveenKumar/Road-Reporting-System) | Location-based civic issue reporting platform | MERN · Tailwind · shadcn/ui |
+| [**Blog Generation Agent**](https://github.com/GaragaNaveenKumar/Blog_Generation_Agent) | AI Agent that can generate blog based on given inputs | FastAPI  |
 | [**AI Teacher Assistant**](https://github.com/GaragaNaveenKumar/AI-Teacher-Assistant-Frontend) | AI-powered assistant for personalized educational support | MERN Stack |
 | [**E-Commerce Platform**](https://github.com/GaragaNaveenKumar/EKart) | Full-stack e-commerce site with product management and cart | MERN · Tailwind |
 | [**Parking Lot LLD**](https://github.com/GaragaNaveenKumar/Parking_lot_lld) | Object-oriented parking lot system — Low-Level Design in C++ | C++ · OOP |
@@ -93,7 +94,7 @@ Final-year B.Tech Computer Science student with a strong foundation in full-stac
 
 | Platform | Achievement |
 |----------|-------------|
-| **LeetCode** | 🏆 Guardian · 1500+ problems · Max Rating 2100+ |
+| **LeetCode** | 🏆 Guardian · 1600+ problems · Max Rating 2100+ |
 | **CodeChef** | ⭐ Rating 1500+ |
 
 </div>
